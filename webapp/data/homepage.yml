@@ -1,0 +1,63 @@
+### Banner ###
+banner:
+  enable: true
+  image: #default is 'images/banner.jpg'
+  title: "OSS Good Governance Initiative"
+  content: "Open-Source Good Governance made easy." # Change this if you want something other then the site description
+  buttons:
+    - title: "Get involved!"
+      link: "get_involved"
+      class: "primary"
+    - title: "Learn More"
+      link: "about_us"
+
+### Highlight ###
+highlight:
+  enable: true
+  header: "OSS: from usage to strategy."
+  content: "A methodological framework to assess and improve open-source awareness, compliance and governance."
+
+### Features ###
+features:
+  enable: true
+  rows:
+    - items:
+      - title: "About the GGI"
+        icon: "fa-cloud"
+        accent: "accent4" #accent values are 1-8
+        content: "Learn more about the GGI Initiative"
+        link: "about"
+      - title: "Use Cases"
+        icon: "fa-chart-area"
+        accent: "accent3" #accent values are 1-8
+        content: "Typical usage of the GGI."
+        link: "use_cases/"
+    - items:
+      - title: "Goals"
+        icon: "fa-bolt"
+        accent: "accent2" #accent values are 1-8
+        content: "Activities are organised into goals."
+        link: "goals/"
+      - title: "Contributing"
+        icon: "fa-lock"
+        accent: "accent5" #accent values are 1-8
+        content: "Join us to expand the GGI!"
+        link: "contributing"
+
+### Blog ###
+blog:
+  enable: false
+  # Leave header text blank to remove entire <section>
+  header: "Recent Posts"
+  buttonText: "Read More"
+  postCount: 2
+
+### Call to Action ###
+cta:
+  enable: true
+  header: "Sign up for beta access"
+  content: "Stay informed of our progress!"
+
+#test:
+#  This initiative helps organisations to achieve these goals with
+ 
