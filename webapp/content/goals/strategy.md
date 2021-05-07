@@ -1,6 +1,6 @@
 ---
 title: "Strategy Goal"
-dsecription: "Embraces the full potential of OSS."
+description: "Embraces the full potential of OSS."
 weight: 50
 ---
 
