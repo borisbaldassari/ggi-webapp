@@ -1,5 +1,6 @@
 ---
 title: "Culture Goal"
+description: "Developing an OSS culture that will help implementing best practices."
 weight: 30
 ---
 

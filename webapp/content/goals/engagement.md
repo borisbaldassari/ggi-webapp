@@ -1,5 +1,6 @@
 ---
 title: "Engagement Goal"
+description: "Develops the corporate perspective."
 weight: 30
 ---
 

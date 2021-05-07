@@ -1,5 +1,6 @@
 ---
 title: "Usage Goal"
+description: "Using OSS and competences in using OSS."
 weight: 30
 ---
 

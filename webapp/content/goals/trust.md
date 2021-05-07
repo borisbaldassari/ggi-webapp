@@ -1,5 +1,6 @@
 ---
 title: "Trust Goal"
+description: "Secure and responsible use of OSS."
 weight: 30
 ---
 
