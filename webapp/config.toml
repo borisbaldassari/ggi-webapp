@@ -45,6 +45,11 @@ link = "https://www.ow2.org/view/OSS_Governance/"
     url = "/activities/"
     weight = 40
   [[menu.main]]
+    identifier = "contributing"
+    name = "Contributing"
+    url = "/contributing"
+    weight = 40
+  [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact"
