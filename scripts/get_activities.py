@@ -22,8 +22,8 @@ issue = issues[0]
 #pp.pprint(issue.__dict__) #.keys())
 #pp.pprint(issue._attrs.keys()) #.keys())
 
-print("# DESC ##############################")
-print(issue.description)
+#print("# DESC ##############################")
+#print(issue.description)
 
 print("# ISSUES ##############################")
 pattern = re.compile("## Description\s*\n+(\w\s*)\n+## Opportunity Assessment")
