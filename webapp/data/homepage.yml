@@ -6,7 +6,7 @@ banner:
   content: "Open-Source Good Governance made easy." # Change this if you want something other then the site description
   buttons:
     - title: "Get involved!"
-      link: "get_involved"
+      link: "contributing"
       class: "primary"
     - title: "Learn More"
       link: "about_us"
