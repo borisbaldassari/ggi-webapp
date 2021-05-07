@@ -9,7 +9,7 @@ banner:
       link: "contributing"
       class: "primary"
     - title: "Learn More"
-      link: "about_us"
+      link: "about"
 
 ### Highlight ###
 highlight:
