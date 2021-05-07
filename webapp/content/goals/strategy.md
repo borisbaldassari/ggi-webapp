@@ -1,7 +1,7 @@
 ---
 title: "Strategy Goal"
 dsecription: "Embraces the full potential of OSS."
-weight: 30
+weight: 50
 ---
 
 ### {{< param title >}}

@@ -1,7 +1,7 @@
 ---
 title: "Trust Goal"
 description: "Secure and responsible use of OSS."
-weight: 30
+weight: 20
 ---
 
 ### {{< param title >}}
