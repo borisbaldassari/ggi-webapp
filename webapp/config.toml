@@ -12,8 +12,8 @@ theme = "hugo-html5up-alpha"
 
 ### Footer Social Media Links ###
 [[params.share]]
-title = "home"
-icon = "fa-cloud" # fontawesome icons Https://Fontawesome.Com/Icons?D=Gallery&S=Brands
+title = "facebook"
+icon = "fa-facebook-f" # fontawesome icons Https://Fontawesome.Com/Icons?D=Gallery&S=Brands
 link = "https://www.ow2.org/view/OSS_Governance/"
 
 [[params.share]]
