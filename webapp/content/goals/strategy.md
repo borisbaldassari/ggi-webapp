@@ -29,13 +29,6 @@ Certification - Competence acknowledgement
 * Needed to become "certified" (even if only internal to <company>) in a compliance "officer role
 * Open source compliance certificate recognized by (or progressively common within) Europe ? "I am Open Source certified, level compliance officer, by OW2 / Inno3 / FSFe / Eclipse / ... "
 
-#### Default
+## Activities
 
-| NAME | DESCRIPTION | PRICE |
-|:--|:--|:--|
-| Item 1 | Ante turpis integer aliquet porttitor. | 29.99 |
-| Item 2 | Vis ac commodo adipiscing arcu aliquet. | 19.99 |
-| Item 3 | Morbi faucibus arcu accumsan lorem. | 29.99 |
-| Item 4 | Vitae integer tempus condimentum. | 19.99 |
-| Item 5 | Ante turpis integer aliquet porttitor. | 29.99 |
-|  || 100.00 |
+
