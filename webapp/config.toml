@@ -5,7 +5,7 @@ theme = "hugo-html5up-alpha"
 
 [params]
   #description = "Another fine responsive site template freebie by HTML5 UP."
-  images = ["images/pic01.jpg"]
+  images = ["images/background.jpg"]
   author = "Licence: [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0)"
   copyright = "© 2021 GGI. All rights reserved."
   mainSections = ["activities"]
