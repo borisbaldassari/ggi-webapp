@@ -38,7 +38,7 @@ for i in issues:
 #    print(i)
     res = desc.search(i.description)
     goal = goals.search(list((filter(goals.match, i.labels)))[0]).group(1)
-    tables[goal.lower()] += "|" + str(i.iid) + "|[" + i.title + "](https://gitlab.ow2.org/ggi/ggi-castalia/-/issues/" + str(i.iid) + ")|\n"
+    tables[goal.lower()] += "|" + str(i.iid) + "|[" + i.title + "](../../activities/activity_" + str(i.iid) + "/)|\n"
 
     # Commented lines could be useful when a convention is adopted to extract the
     # first sentence/line/paragraph of the description.
@@ -46,9 +46,16 @@ for i in issues:
     #    description = res.group(1)
     #else:
 #    description = 'unknown'
+    k = []
+    for l in i.labels:
+        m = l.replace(" ", "_")
+        k.append(m)
+    print(k)
+    tags = "[\"" + '","'.join(k) + "\"]"
     header = [
         "---",
         "title: " + i.title,
+        "tags: " + tags,
 #        "description: " + description,
         "---"
         ]
