@@ -32,3 +32,19 @@ Certification - Competence acknowledgement
 ## Activities
 
 
+
+
+| ID | Title |
+|:--|:--|
+|37|(Strategy Goal) Open source enabling digital transformation|
+|36|(Strategy Goal) Open source enabling innovation|
+|35|(Strategy Goal) Open source and digital sovereignty|
+|34|(Strategy Goal) C-Level awareness|
+
+
+| ID | Title |
+|:--|:--|
+|37|(Strategy Goal) Open source enabling digital transformation|
+|36|(Strategy Goal) Open source enabling innovation|
+|35|(Strategy Goal) Open source and digital sovereignty|
+|34|(Strategy Goal) C-Level awareness|

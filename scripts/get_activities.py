@@ -1,7 +1,16 @@
+######################################################################
+# Copyright (c) 2021 Castalia Solutions and others
+#
+# This program and the accompanying materials are made
+# available under the terms of the Eclipse Public License 2.0
+# which is available at https://www.eclipse.org/legal/epl-2.0/
+#
+# SPDX-License-Identifier: EPL-2.0
+######################################################################
+
 import gitlab
 import pprint
 import re
-#import string
 
 gl_url = "https://gitlab.ow2.org"
 project_id = 1654
@@ -9,22 +18,14 @@ project_id = 1654
 pp = pprint.PrettyPrinter(indent=4)
 
 
-gl = gitlab.Gitlab(gl_url)
+gl = gitlab.Gitlab(gl_url, per_page=50)
 
 project = gl.projects.get(project_id)
 print("Project is:", project.id)
 
 #issues = project.issues.list()
 print("# Fetching issues..")
-issues = project.issues.list(state='opened')
-
-#print("# KEYS ##############################")
-#issue = issues[0]
-#pp.pprint(issue.__dict__) #.keys())
-#pp.pprint(issue._attrs.keys()) #.keys())
-
-#print("# DESC ##############################")
-#print(issue.description)
+issues = project.issues.list(state='opened', all=True)
 
 print("# Exporting issues..")
 desc = re.compile("## Description\s*\n+(.*?)\.")
@@ -34,20 +35,22 @@ tables = {'usage': '', 'trust': '', 'culture': '', 'engagement': '', 'strategy':
 
 for i in issues:
     print("* Issue", i.iid)
-    print(i)
+#    print(i)
     res = desc.search(i.description)
     goal = goals.search(list((filter(goals.match, i.labels)))[0]).group(1)
     print("Goal is ", goal)
     tables[goal.lower()] += "|" + str(i.iid) + "|" + i.title + "|\n"
 
+    # Commented lines could be useful when a convention is adopted to extract the
+    # first sentence/line/paragraph of the description.
     #if (res):
     #    description = res.group(1)
     #else:
-    description = 'unknown'
+#    description = 'unknown'
     header = [
         "---",
         "title: " + i.title,
-        "description: " + description,
+#        "description: " + description,
         "---"
         ]
     fname = "../webapp/content/activities/activity_" + str(i.iid) + ".md"

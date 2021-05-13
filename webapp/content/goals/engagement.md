@@ -47,3 +47,19 @@ Funding open source projects
 ## Activities
 
 
+
+
+| ID | Title |
+|:--|:--|
+|33|(Engagement Goal) Engaging with OSS vendors|
+|31|(Engagement Goal) Publicly asserting  use of open source|
+|30|(Engagement Goal) Supporting OSS Communities|
+|29|(Engagement Goal)  Contributing to OSS Projects|
+
+
+| ID | Title |
+|:--|:--|
+|33|(Engagement Goal) Engaging with OSS vendors|
+|31|(Engagement Goal) Publicly asserting  use of open source|
+|30|(Engagement Goal) Supporting OSS Communities|
+|29|(Engagement Goal)  Contributing to OSS Projects|
