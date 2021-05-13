@@ -76,22 +76,3 @@ Software reuse considerations
 
 ## Activities
 
-
-
-
-| ID | Title |
-|:--|:--|
-|40|(Trust Goal) Running Open Source Reviews|
-|24|(Trust Goals) Manage key indicators|
-|23|(Trust Goal) Manage software dependencies|
-|22|(Trust Goal) Manage software vulnerabilities|
-|21|(Trust Goal) Managing legal compliance|
-
-
-| ID | Title |
-|:--|:--|
-|40|(Trust Goal) Running Open Source Reviews|
-|24|(Trust Goals) Manage key indicators|
-|23|(Trust Goal) Manage software dependencies|
-|22|(Trust Goal) Manage software vulnerabilities|
-|21|(Trust Goal) Managing legal compliance|

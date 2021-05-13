@@ -37,22 +37,3 @@ OSS Project monitoring
 
 ## Activities
 
-
-
-
-| ID | Title |
-|:--|:--|
-|39|(Culture Goal) Upstream First|
-|28|(Culture Goal) HR perspective|
-|27|(Culture Goal) Belonging to the open source community|
-|26|(Culture Goal) Contributing to open source projects|
-|25|(Culture Goal) Promote open source development best practices|
-
-
-| ID | Title |
-|:--|:--|
-|39|(Culture Goal) Upstream First|
-|28|(Culture Goal) HR perspective|
-|27|(Culture Goal) Belonging to the open source community|
-|26|(Culture Goal) Contributing to open source projects|
-|25|(Culture Goal) Promote open source development best practices|

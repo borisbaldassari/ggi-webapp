@@ -33,16 +33,3 @@ Business models introduction
 
 ## Activities
 
-
-
-
-| ID | Title |
-|:--|:--|
-|20|(Usage Goal) Open source enterprise software|
-|19|(Usage Goal) Open source decision making|
-
-
-| ID | Title |
-|:--|:--|
-|20|(Usage Goal) Open source enterprise software|
-|19|(Usage Goal) Open source decision making|
