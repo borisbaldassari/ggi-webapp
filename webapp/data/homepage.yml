@@ -1,7 +1,7 @@
 ### Banner ###
 banner:
   enable: true
-  image: #'images/background.jpg' #default is 'images/banner.jpg'
+  image: 'images/background.jpg' #default is 'images/banner.jpg'
   title: "OSS Good Governance Initiative"
   content: "Open-Source Good Governance made easy." # Change this if you want something other then the site description
   buttons:
