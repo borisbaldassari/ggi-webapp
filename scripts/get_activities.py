@@ -34,12 +34,11 @@ goals = re.compile("(.*) Goal")
 tables = {'usage': '', 'trust': '', 'culture': '', 'engagement': '', 'strategy': ''}
 
 for i in issues:
-    print("* Issue", i.iid)
+    print("* Issue", i.iid, "-", i.title)
 #    print(i)
     res = desc.search(i.description)
     goal = goals.search(list((filter(goals.match, i.labels)))[0]).group(1)
-    print("Goal is ", goal)
-    tables[goal.lower()] += "|" + str(i.iid) + "|" + i.title + "|\n"
+    tables[goal.lower()] += "|" + str(i.iid) + "|[" + i.title + "](https://gitlab.ow2.org/ggi/ggi-castalia/-/issues/" + str(i.iid) + ")|\n"
 
     # Commented lines could be useful when a convention is adopted to extract the
     # first sentence/line/paragraph of the description.
