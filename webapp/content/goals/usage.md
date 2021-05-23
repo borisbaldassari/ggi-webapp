@@ -1,6 +1,6 @@
 ---
 title: "Usage Goal"
-description: "Using OSS and competences in using OSS."
+description: "Basic Skills in Using Open Source Software."
 weight: 10
 ---
 
@@ -8,28 +8,26 @@ weight: 10
 
 ## Scope
 
-This Goal is about using OSS and competences in using OSS. It covers technical ability and experience with OSS. Plus developing some understanding and awareness of OSS.
+Basic Skills in Using Open Source Software
 
-## Suggested content
+## Key content
 
-General introduction
+Using OSS and competences in using OSS. It covers technical ability and experience with OSS
+Developing some understanding and awareness of OSS
 
-* Macro benefits Technical, ...
-* Understand the main forces at work ???
-* Some high-profile use cases Plus examples of use within <company>
-* Philosophy of the Open Source initiators Create a worldwide asset (useless to re-invent the wheel, The distribution and dissemination of the Knowledge, A consequence of the importance of the Software asset is the Software heritage foundation that aims to protect this software asset (https://www.softwareheritage.org/), It's important to understand these principles, otherwise people think that Open Source is just about downloading a free (zero cost) software, or making cost reduction.
-* License recognition bodies An Open Source  Software is a Software having a license recognized by the FSF or OSI. The other types of license are not considered as "Open Source" to prevent the "Open Washing"
+## Current activities
 
-Some definitions
+* Managing OSS development skills
+* Ensure basic skills in OSS technos
+* Proactive OSS decision making
+* Using OSS enterprise software
+* OSS review
 
-* Copyrights
-* Patents
-* License Agreement (contract vs. license copyright)
+## Verification points
 
-Business models introduction
+* Inventory of OSS used
+* Inventory of available skills
+* Inventory of required skills
+* Understanding of OSS licenses
 
-* Non-profit community-based, enterprise-based
-* For-profit enterprise-based
-
-## Activities
-
+## Link to Activities

@@ -1,6 +1,6 @@
 ---
 title: "Engagement Goal"
-description: "Develops the corporate perspective."
+description: "Engaging with the OSS Ecosystem."
 weight: 40
 ---
 
@@ -8,41 +8,26 @@ weight: 40
 
 ## Scope
 
-This Goal develops the corporate perspective. Contributing back to open source projects and supporting open source communities. Developing project visibility: communicating and participating in open source industry and community events. At this level, the enterprise engages with the OSS ecosystem and contributes to its sustainability.
+Engaging with the OSS Ecosystem.
 
-## Suggested content
+## Key content
 
-Ecosystem stakeholders
+* Contributing back to OSS projects and supporting OSS communities
+* Publicly asserting use of open source
 
-* Foundations (that pay people to do work): FSF, ASF, Eclipse, Mozilla
-* Organization & communities -> OW2, ...
-* Distributors: Redhat, CentOS Linux, Debian, Canonical UBUNTU, CoreOS, CentOS
-* Editors (enterprise licenses vs. community editions)
-* Integrators
-* * Model without Editor
-* * Model with Editor
-* Cloud actors
-* Equipment manufacturers (cost cutting vs. upstream innovation and influence ...)
-* Communication Service Providers
+## Current activities
 
-Business models
+* Contributing back to OSS projects
+* Supporting OSS communities
+* Publicly asserting use of OSS
+* Contracting with OSS vendors
+* Participating in OSS events
 
-* Dual licensing ex. community addition is AGPL, enterprise edition "removes" the "share" conditions.
-* Dual product model ex. open core
-* Open Source Professional services
-* Additional functions (is this open core?), patches ahead of public, patches back-ported to prior versions (ex. Oracle Java)
+## Verification points
 
-Myths & Stories
+* Communication actions
+* Event participation
+* Financial sponsoring
+* Publicly shared code and contributions
 
-* Quality
-* Security
-* OSS Licensing and Legal Issues
-* Support
-
-Funding open source projects
-
-* Best practices
-* Experience sharing
-
-## Activities
-
+## Link to Activities

@@ -1,6 +1,6 @@
 ---
 title: "Strategy Goal"
-description: "Embraces the full potential of OSS."
+description: "Open Source as a Corporate Strategy."
 weight: 50
 ---
 
@@ -8,27 +8,25 @@ weight: 50
 
 ## Scope
 
-With this Goal the enterprise embraces the full potential of OSS. It proactively uses OSS for innovation and competitiveness. It leverages OSS as an enabler of digital transformation and digital sovereignty. C-level open source awareness is achieved.
+Open Source as a Corporate Strategy.
 
-## Suggested content
+## Key Content
 
-Case studies in OSS strategic advantage
+* C-level awareness of open source as an enabler
+* Innovation
+* Sovereignty
+* Digital transformation
 
-* Process innovation objective
-* Business sovereignty objectives
-* IT efficiency objectives
+## Current activities
 
-Company specific topics
+* C-Level awareness building
+* Link OSS with digital sovereignty
+* OSS enabling innovations
+* OSS enabling digital transformation
 
-* Internal tooling
-* Internal processses
-* Management awareness
+## Verification points
 
-Certification - Competence acknowledgement
+* Open source in corporate IT strategy
+* Open source supporting new activities
 
-* Needed to become "certified" (even if only internal to <company>) in a compliance "officer role
-* Open source compliance certificate recognized by (or progressively common within) Europe ? "I am Open Source certified, level compliance officer, by OW2 / Inno3 / FSFe / Eclipse / ... "
-
-## Activities
-
-
+## Link to Activities

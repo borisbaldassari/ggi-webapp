@@ -1,6 +1,6 @@
 ---
 title: "Culture Goal"
-description: "Developing an OSS culture that will help implementing best practices."
+description: "Belonging to the Open Source Community at Large."
 weight: 30
 ---
 
@@ -8,32 +8,25 @@ weight: 30
 
 ## Scope
 
-This Goal is concerned with developing an OSS culture that will help implementing best practices. It's about being part of the open source community, sharing experience. And being recognized. An individual perspective.
+Belonging to the Open Source Community at Large.
 
-## Suggested content
+## Key content
 
-Contributing to open source
+* OSS culture that helps implementing best practices
+* Sharing with the open source community
+* Engaging with support communities
 
-* Personal and Professional contributions to Open Source
-* CLA vs. DCO (https://opensource.com/article/18/3/cla-vs-dco-whats-difference)
-* Is Open Source collaboration compatible with NDAs and audience restricted partnerships / organisations ?
-* Working with GitHub
-* Best practice and good behaviour when contributing
-* Controlling and measuring contribution "at scale" within large organisations
-* Flip-side : how to manage contributions being proposed for your project (copyright and IP implications etc.)
+## Current activities
 
-OSS Projects guidelines
+* OSS development principles
+* Contributing to OSS projects
+* Upstream first
+* HR perspective
+* Belonging to the OSS community
 
-* What to expect when contributing to an existing project ?
-* What to include in a new projects' general contribution guidelines
-* Implications on suppliers (who is responsible for what)
-* Packaging multiple components with different license regimes
+## Verification points
 
-OSS Project monitoring
+* Personal and Professional contributions to OSS projects
+* Individual attendance at OSS events
 
-* OSS project metrics
-* Open source project best practices checklist
-* OSS project market readiness
-
-## Activities
-
+## Link to Activities
